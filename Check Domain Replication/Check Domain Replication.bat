@@ -1,0 +1,1 @@
+psexec @servers.txt -u domain\user -c -f -h rep.bat
