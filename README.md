@@ -1,4 +1,4 @@
-![Active Directory](https://d22e4d61ky6061.cloudfront.net/sites/default/files/Microsoft%20Active%20Directory_0.png)
+![Active Directory](https://www.bio-key.com/products/windows/img/ad.png)
 
 # ActiveDirectory
 
