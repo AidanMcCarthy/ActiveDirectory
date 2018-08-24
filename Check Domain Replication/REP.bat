@@ -18,5 +18,3 @@ echo  >> %logfile%
 echo  >> %logfile%
 :Finish
 Echo Finished %computername%!
-
-Aidan
