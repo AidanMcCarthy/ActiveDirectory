@@ -19,4 +19,4 @@ echo  >> %logfile%
 :Finish
 Echo Finished %computername%!
 
-Test Commit
+Aidan
